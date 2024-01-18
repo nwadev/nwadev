@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi i'm nwadev ⚡️</h1>
 
-<h3 align="center">A passionate Embedded Software Engineer from the United States</h3>
+<h3 align="center">A passionate computer engineering student from Texas, United States</h3>
 
 
 - ⚡ I’m currently working on an Assistive Robotic Hand and a Weather App
