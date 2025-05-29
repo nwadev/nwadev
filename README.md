@@ -7,7 +7,7 @@
 - ⚡ I’m currently working on an Assistive Robotic Hand and a Weather App
 - 📝 I regularly write articles on [Substack](http://chukwuu.substack.com/)
 - 💬 Ask me about embedded systems, 3D printing and web development
-- 📫 How to reach me: slinkynonxt@gmail.com
+- 📫 How to reach me: chukwudtx@gmail.com
 - 🐕‍🦺 Fun fact: I have a pet dog named Tyrone
 
 
